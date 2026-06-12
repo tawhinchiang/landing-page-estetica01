@@ -1,6 +1,6 @@
-# Clínica Estética Comdiodo - Landing Page
+# Landing Page Genérica para Clínica Estética
 
-Landing page premium, responsiva e estática para a Clínica Estética Comdiodo em Araguaína - TO.
+Landing page premium, responsiva e estática para clínicas de estética, beleza e autocuidado.
 
 ## Arquivos
 
@@ -8,24 +8,26 @@ Landing page premium, responsiva e estática para a Clínica Estética Comdiodo 
 index.html
 style.css
 script.js
+favicon.svg
+assets/
 ```
 
-## O que já está configurado
+## O que está configurado
 
-- Meta title, meta description e Open Graph.
-- Schema JSON-LD do tipo `HealthAndBeautyBusiness`.
-- WhatsApp com o número `+55 63 99127-7257`.
-- Link de rota do Google Maps para o endereço informado.
+- Meta title, meta description e Open Graph genéricos.
+- Schema JSON-LD sem endereço ou redes sociais específicas.
+- WhatsApp com o número `+55 63 99201-4547`.
 - Menu mobile funcional.
 - Botão flutuante de WhatsApp.
 - Animações suaves ao rolar.
-- Imagens com `loading="lazy"` e textos alternativos.
+- Imagens genéricas locais em SVG, sem mídia ou dados reais de cliente.
 
 ## Pontos editáveis
 
-- Logo: no `index.html`, procure por `Trocar logo`.
-- Imagens: no `index.html`, procure por `Trocar imagem`.
-- Instagram: no rodapé do `index.html`, procure por `Instagram editável`.
-- Mapa: no `index.html`, procure por `Trocar mapa`.
+- Nome da clínica: no `index.html`, procure por `Clínica Estética`.
+- WhatsApp: no `index.html`, procure por `5563992014547`.
+- Textos comerciais: edite as seções de procedimentos, experiência, como funciona e diferenciais.
+- Imagens: substitua os arquivos da pasta `assets/` mantendo os mesmos nomes, ou edite os caminhos no `index.html`.
+- Cores e estilo visual: edite as variáveis no topo do `style.css`.
 
 Para abrir localmente, use o arquivo `index.html` no navegador.

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" role="img" aria-labelledby="title desc">
+  <title id="title">Generic skin cleaning care</title>
+  <desc id="desc">Generic skincare composition with cleanser bottle, cotton pads, towel, and droplets.</desc>
+  <rect width="900" height="560" fill="#fff9ea"/>
+  <path d="M0 378c132-54 260-4 394-42c154-44 278-122 506-74v298H0Z" fill="#f7e7e2"/>
+  <circle cx="172" cy="136" r="90" fill="#dde7dd"/>
+  <circle cx="776" cy="102" r="74" fill="#d7b84a" opacity="0.28"/>
+  <rect x="118" y="336" width="350" height="72" rx="36" fill="#ffffff"/>
+  <rect x="156" y="286" width="286" height="68" rx="34" fill="#fffdf7"/>
+  <rect x="508" y="148" width="120" height="256" rx="36" fill="#ffffff"/>
+  <rect x="536" y="98" width="64" height="70" rx="18" fill="#d7b84a"/>
+  <rect x="538" y="260" width="62" height="18" rx="9" fill="#4a3527" opacity="0.22"/>
+  <circle cx="684" cy="322" r="66" fill="#fffdf7"/>
+  <circle cx="720" cy="292" r="50" fill="#dde7dd"/>
+  <path d="M330 116s52 56 52 96a52 52 0 0 1-104 0c0-40 52-96 52-96Z" fill="#ffffff" opacity="0.78"/>
+</svg>

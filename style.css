@@ -94,33 +94,6 @@ a {
   text-decoration: none;
 }
 
-.brand-mark {
-  display: grid;
-  width: 46px;
-  height: 46px;
-  place-items: center;
-  flex: 0 0 auto;
-  border-radius: 50%;
-  background: linear-gradient(145deg, var(--gold), var(--gold-dark));
-  box-shadow: 0 10px 22px rgba(185, 151, 46, 0.26);
-}
-
-.brand-mark svg {
-  width: 29px;
-  height: 29px;
-  fill: var(--white);
-}
-
-.brand-mark.mini {
-  width: 38px;
-  height: 38px;
-}
-
-.brand-mark.mini svg {
-  width: 23px;
-  height: 23px;
-}
-
 .brand-copy {
   display: grid;
   gap: 1px;
@@ -723,40 +696,6 @@ h3 {
   font-size: 0.95rem;
 }
 
-.location {
-  background: var(--off-white);
-}
-
-.location-grid {
-  display: grid;
-  grid-template-columns: 0.8fr 1.2fr;
-  align-items: center;
-  gap: 34px;
-}
-
-.address {
-  max-width: 470px;
-  margin: 22px 0 28px;
-  color: var(--muted);
-  font-size: 1.04rem;
-}
-
-.map-card {
-  overflow: hidden;
-  min-height: 430px;
-  border: 1px solid rgba(185, 151, 46, 0.22);
-  border-radius: var(--radius);
-  background: var(--white);
-  box-shadow: var(--shadow-card);
-}
-
-.map-card iframe {
-  display: block;
-  width: 100%;
-  height: 430px;
-  border: 0;
-}
-
 .final-cta {
   padding: 72px 0;
   background:
@@ -786,7 +725,7 @@ h3 {
 
 .footer-grid {
   display: grid;
-  grid-template-columns: 1.2fr 1fr 0.8fr 0.8fr;
+  grid-template-columns: 1.2fr 1fr 0.8fr;
   gap: 34px;
 }
 
@@ -976,8 +915,7 @@ button:focus-visible {
   }
 
   .hero-main,
-  .experience-grid,
-  .location-grid {
+  .experience-grid {
     grid-template-columns: 1fr;
   }
 
@@ -1039,11 +977,6 @@ button:focus-visible {
 
   .section-pad {
     padding: 70px 0;
-  }
-
-  .brand-mark {
-    width: 42px;
-    height: 42px;
   }
 
   .brand-copy strong {
@@ -1166,12 +1099,6 @@ button:focus-visible {
 
   .step-card:last-child {
     border-bottom: 0;
-  }
-
-  .map-card,
-  .map-card iframe {
-    min-height: 360px;
-    height: 360px;
   }
 
   .final-cta h2 {

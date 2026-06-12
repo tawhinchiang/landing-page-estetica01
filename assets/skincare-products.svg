@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 900" role="img" aria-labelledby="title desc">
+  <title id="title">Generic skincare products</title>
+  <desc id="desc">Soft illustration of skincare bottles, jars, folded towels, and leaves.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#dde7dd"/>
+      <stop offset="0.52" stop-color="#fff9ea"/>
+      <stop offset="1" stop-color="#f7e7e2"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="16" stdDeviation="18" flood-color="#4a3527" flood-opacity="0.16"/>
+    </filter>
+  </defs>
+  <rect width="700" height="900" fill="url(#bg)"/>
+  <circle cx="130" cy="148" r="84" fill="#d7b84a" opacity="0.2"/>
+  <circle cx="585" cy="250" r="116" fill="#ffffff" opacity="0.44"/>
+  <circle cx="560" cy="742" r="132" fill="#b9972e" opacity="0.12"/>
+  <path d="M0 650c148-62 260-24 384-58c111-31 196-100 316-76v384H0Z" fill="#fffdf7" opacity="0.72"/>
+  <g filter="url(#shadow)">
+    <rect x="118" y="598" width="430" height="64" rx="32" fill="#ffffff"/>
+    <rect x="156" y="545" width="356" height="66" rx="33" fill="#f7e7e2"/>
+    <rect x="200" y="492" width="262" height="66" rx="33" fill="#fff9ea"/>
+  </g>
+  <g filter="url(#shadow)">
+    <rect x="144" y="302" width="112" height="262" rx="34" fill="#ffffff"/>
+    <rect x="170" y="248" width="60" height="70" rx="18" fill="#d7b84a"/>
+    <rect x="169" y="410" width="62" height="18" rx="9" fill="#b9972e" opacity="0.46"/>
+    <rect x="303" y="210" width="126" height="358" rx="38" fill="#fffdf7"/>
+    <rect x="330" y="156" width="72" height="72" rx="20" fill="#d7b84a"/>
+    <rect x="331" y="386" width="72" height="20" rx="10" fill="#4a3527" opacity="0.22"/>
+    <rect x="460" y="368" width="92" height="196" rx="28" fill="#dde7dd"/>
+    <rect x="482" y="325" width="48" height="52" rx="14" fill="#ffffff"/>
+  </g>
+  <g opacity="0.88">
+    <path d="M116 434c-50-68-53-139-10-212c52 65 58 136 10 212Z" fill="#7f9a7b"/>
+    <path d="M584 518c-68-42-102-103-102-184c73 36 111 96 102 184Z" fill="#6e8c69"/>
+    <path d="M594 520c10-78 50-136 121-174c5 82-35 140-121 174Z" fill="#9fb29a"/>
+  </g>
+</svg>

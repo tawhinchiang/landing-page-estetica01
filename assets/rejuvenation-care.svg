@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" role="img" aria-labelledby="title desc">
+  <title id="title">Generic rejuvenation care</title>
+  <desc id="desc">Generic rejuvenation care composition with serum dropper, jar, and light circles.</desc>
+  <rect width="900" height="560" fill="#fff9ea"/>
+  <path d="M0 154c130-68 276-42 410-6c150 40 252 88 490 38v374H0Z" fill="#dde7dd"/>
+  <circle cx="712" cy="336" r="152" fill="#f7e7e2"/>
+  <circle cx="712" cy="336" r="94" fill="#ffffff" opacity="0.7"/>
+  <path d="M276 112h92c28 0 50 22 50 50v252c0 28-22 50-50 50h-92c-28 0-50-22-50-50V162c0-28 22-50 50-50Z" fill="#ffffff"/>
+  <rect x="284" y="58" width="76" height="72" rx="20" fill="#d7b84a"/>
+  <rect x="292" y="238" width="62" height="18" rx="9" fill="#4a3527" opacity="0.22"/>
+  <rect x="486" y="128" width="74" height="278" rx="28" transform="rotate(-25 486 128)" fill="#ffffff"/>
+  <rect x="498" y="74" width="52" height="82" rx="18" transform="rotate(-25 498 74)" fill="#4a3527" opacity="0.3"/>
+  <path d="M604 328s34 38 34 64a34 34 0 0 1-68 0c0-26 34-64 34-64Z" fill="#d7b84a" opacity="0.54"/>
+  <circle cx="156" cy="408" r="58" fill="#ffffff" opacity="0.62"/>
+</svg>

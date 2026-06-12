@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" role="img" aria-labelledby="title desc">
+  <title id="title">Generic peeling care products</title>
+  <desc id="desc">Generic peeling care composition with bowl, brush, product jar, and soft textures.</desc>
+  <rect width="900" height="560" fill="#f7e7e2"/>
+  <path d="M0 360c126-52 230-38 346-70c178-48 306-136 554-100v370H0Z" fill="#fff9ea"/>
+  <circle cx="164" cy="154" r="88" fill="#d7b84a" opacity="0.24"/>
+  <circle cx="750" cy="116" r="68" fill="#dde7dd"/>
+  <ellipse cx="436" cy="354" rx="170" ry="82" fill="#ffffff"/>
+  <ellipse cx="436" cy="330" rx="130" ry="48" fill="#f7e7e2"/>
+  <rect x="574" y="182" width="70" height="236" rx="28" transform="rotate(36 574 182)" fill="#4a3527" opacity="0.32"/>
+  <rect x="520" y="188" width="74" height="92" rx="22" transform="rotate(36 520 188)" fill="#d7b84a"/>
+  <rect x="192" y="284" width="118" height="128" rx="32" fill="#fffdf7"/>
+  <rect x="216" y="238" width="70" height="60" rx="18" fill="#d7b84a"/>
+  <path d="M698 394c-66-46-98-110-94-190c72 42 105 105 94 190Z" fill="#7f9a7b"/>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" role="img" aria-labelledby="title desc">
+  <title id="title">Generic body care products</title>
+  <desc id="desc">Generic body care composition with towels, massage oil, stones, and leaves.</desc>
+  <rect width="900" height="560" fill="#dde7dd"/>
+  <path d="M0 378c142-66 282-28 426-64c150-38 286-110 474-74v320H0Z" fill="#fff9ea"/>
+  <circle cx="150" cy="150" r="90" fill="#f7e7e2"/>
+  <rect x="140" y="348" width="352" height="68" rx="34" fill="#ffffff"/>
+  <rect x="178" y="298" width="286" height="68" rx="34" fill="#fffdf7"/>
+  <rect x="216" y="248" width="210" height="68" rx="34" fill="#f7e7e2"/>
+  <rect x="564" y="168" width="112" height="258" rx="34" fill="#ffffff"/>
+  <rect x="590" y="116" width="60" height="70" rx="18" fill="#d7b84a"/>
+  <rect x="592" y="282" width="58" height="18" rx="9" fill="#4a3527" opacity="0.2"/>
+  <ellipse cx="710" cy="406" rx="58" ry="34" fill="#4a3527" opacity="0.22"/>
+  <ellipse cx="770" cy="378" rx="50" ry="30" fill="#4a3527" opacity="0.16"/>
+  <path d="M706 260c-56-62-70-132-40-210c62 56 78 126 40 210Z" fill="#7f9a7b"/>
+</svg>
